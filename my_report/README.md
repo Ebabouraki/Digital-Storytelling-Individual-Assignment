@@ -29,7 +29,19 @@
 ![textures](https://user-images.githubusercontent.com/100956280/225152895-163b6d7c-3d64-49b7-b506-4caf3a594ca5.png)
 
 - Παρακάτω με τη βοήθεια απο το tutorial [Unit 2.5](https://learn.unity.com/tutorial/lesson-2-5-adjusting-the-directional-light?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed723a8edbc2a00202eb57e#5ed2cf59edbc2a033c2d0bfc) ρύθμισα το `Directional light` για να δημιοργήσω ένα ηλιοβασίλεμα μιας και η Σαντορίνη φημίζεται για αυτό.
-![Στιγμιότυπο οθόνης (824)](https://user-images.githubusercontent.com/100956280/225154094-b3812d11-cd04-4e74-b83b-438fa2edc92c.png)
+![directional light](https://user-images.githubusercontent.com/100956280/225154334-be72d6a3-c5c2-4c6a-afcb-18831c33ac5c.png)
+
+- Ακόμα, έφτιαξα ένα animation στο `Timeline` για τη κάμερα περιστρέφοντας τη γύρω γύρω από το νησί και για την εγγραφή βίντεο με τη βοήθεια απο το tutorial [εδω](https://learn.unity.com/tutorial/lesson-4-4-creating-dailies?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f).Πήγα στο παράθυρο `Package Manager`, επιλέξα `Advanced > Show Preview Packages` και έκανα εγκατάσταση του `Unity Recorder`
+- Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ
+![recorder_clip](https://user-images.githubusercontent.com/100956280/225155663-333f778d-ad98-4884-8aad-1a4e39543d93.png)
+
+-Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+
+Το τελικό αποτέλεσμα είναι το εξής:
+
+
+https://user-images.githubusercontent.com/100956280/225159259-44379f72-557e-4fd3-ab76-93b4a652f906.mp4
+
 
 
 # 2nd Deliverable

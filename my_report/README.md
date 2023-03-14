@@ -28,6 +28,9 @@
 
 ![textures](https://user-images.githubusercontent.com/100956280/225152895-163b6d7c-3d64-49b7-b506-4caf3a594ca5.png)
 
+- Παρακάτω με τη βοήθεια απο το tutorial [Unit 2.5](https://learn.unity.com/tutorial/lesson-2-5-adjusting-the-directional-light?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed723a8edbc2a00202eb57e#5ed2cf59edbc2a033c2d0bfc) ρύθμισα το `Directional light` για να δημιοργήσω ένα ηλιοβασίλεμα μιας και η Σαντορίνη φημίζεται για αυτό.
+![Στιγμιότυπο οθόνης (824)](https://user-images.githubusercontent.com/100956280/225154094-b3812d11-cd04-4e74-b83b-438fa2edc92c.png)
+
 
 # 2nd Deliverable
 

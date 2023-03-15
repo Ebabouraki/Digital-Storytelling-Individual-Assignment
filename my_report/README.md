@@ -72,6 +72,16 @@ https://user-images.githubusercontent.com/100956280/225159259-44379f72-557e-4fd3
 ![props1](https://user-images.githubusercontent.com/100956280/225168729-2a76bfb8-b18c-4964-9824-91f90ff918d4.png)
 ![props2](https://user-images.githubusercontent.com/100956280/225168733-e26d85d4-2725-4669-9bce-61e7b212025d.png)
 
+- Ακόμα, έφτιαξα ένα animation στο `Timeline` για τη κάμερα με μία γραμμική κίνηση από αριστερά προς τα δεξιά και για την εγγραφή βίντεο με τη βοήθεια απο το tutorial [εδω](https://learn.unity.com/tutorial/lesson-4-4-creating-dailies?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f).Πήγα στο παράθυρο `Package Manager`, επιλέξα `Advanced > Show Preview Packages` και έκανα εγκατάσταση του `Unity Recorder`
+- Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ όπως και προηγουμένως
+
+-Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+
+Το τελικό αποτέλεσμα είναι το εξής:
+
+
+https://user-images.githubusercontent.com/100956280/225177860-8d58478c-25a7-45eb-bee8-1e30dcdf3683.mp4
+
 
 
 # 2nd Deliverable

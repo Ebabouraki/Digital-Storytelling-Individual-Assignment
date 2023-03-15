@@ -3,7 +3,7 @@
 ### First and Last Name: Ελένη Βαβουράκη
 ### University Registration Number: dpsd19009
 ### GitHub Personal Profile: https://github.com/Ebabouraki
-### Digital-Storytelling-Individual-Assignment: xxx
+### Digital-Storytelling-Individual-Assignment: https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 

@@ -38,9 +38,9 @@
 - Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ
 ![recorder_clip](https://user-images.githubusercontent.com/100956280/225155663-333f778d-ad98-4884-8aad-1a4e39543d93.png)
 
--Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+- Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
 
-Το τελικό αποτέλεσμα είναι το εξής:
+- Το τελικό αποτέλεσμα είναι το εξής:
 
 
 https://user-images.githubusercontent.com/100956280/225159259-44379f72-557e-4fd3-ab76-93b4a652f906.mp4
@@ -75,9 +75,9 @@ https://user-images.githubusercontent.com/100956280/225159259-44379f72-557e-4fd3
 - Ακόμα, έφτιαξα ένα animation στο `Timeline` για τη κάμερα με μία γραμμική κίνηση από αριστερά προς τα δεξιά και για την εγγραφή βίντεο με τη βοήθεια απο το tutorial [εδω](https://learn.unity.com/tutorial/lesson-4-4-creating-dailies?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f).Πήγα στο παράθυρο `Package Manager`, επιλέξα `Advanced > Show Preview Packages` και έκανα εγκατάσταση του `Unity Recorder`
 - Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ όπως και προηγουμένως
 
--Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+- Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
 
-Το τελικό αποτέλεσμα είναι το εξής:
+- Το τελικό αποτέλεσμα είναι το εξής:
 
 
 https://user-images.githubusercontent.com/100956280/225177860-8d58478c-25a7-45eb-bee8-1e30dcdf3683.mp4
@@ -86,6 +86,7 @@ https://user-images.githubusercontent.com/100956280/225177860-8d58478c-25a7-45eb
 
 
 **Unit 4**
+
 - Αρχικά, ήθελα να κάνω ένα animation το οποίο να δείχνει μία μεγάλη πολη με πολυ κίνηση και κάποιους άνθρωπους να περιμένουν στη στάση,για να πάρουν το λεωφορείο. Έτσι λοιπόν κατέβασα κάποια έτοιμα assets δωρεάν από το [SketchFab]( https://sketchfab.com/search?type=models)
 - Συγκεριμένα στη σκηνή μου χρησιμοποίησα 6 αυτοκίνητα, ένα λεωφορείο και ένα ελικόπτερο τα οποία δημιούργησα ένα animation στο Timeline με οδηγίες από το [Unit4.1](https://learn.unity.com/tutorial/lesson-4-1-creating-a-timeline-and-adding-keyframed-animation-tracks?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed98f9dedbc2a185f0ce686) 
 - Παρακάτω με βάση το tutorial [Unit4.2](https://learn.unity.com/tutorial/lesson-4-2-configure-generic-rigs-and-add-animation-clips?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed993e7edbc2a039af2b911) πρόσθεσα 3 ποντίκια να ψάχνουν στα σκουπίδια
@@ -99,9 +100,9 @@ https://user-images.githubusercontent.com/100956280/225183232-f18548fb-4162-4554
 
 - Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ όπως και προηγουμένως
 
--Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+- Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
 
-Το τελικό αποτέλεσμα είναι το εξής:
+- Το τελικό αποτέλεσμα είναι το εξής:
 
 
 

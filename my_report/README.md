@@ -44,21 +44,23 @@
 https://user-images.githubusercontent.com/100956280/225159259-44379f72-557e-4fd3-ab76-93b4a652f906.mp4
 
 
+
+
 **Unit 3**
-Αρχικά κατέβασα τα assets από [εδω](https://connect-prd-cdn.unity.com/20200612/4d373944-9d85-435a-82fb-54db29eb73ce/Unit3_StarterFiles.zip?_ga=2.42213861.1569361259.1592420888-2101839072.1588175812) στη συνέχεια ακολούθησα τις [οδηγίες](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) όπως δείξαμε και στο εργαστήριο
--Για τη συναρμολόγηση του σετ,
--Τη δημιουργία του κώνου μέσω του Probuilder
+- Αρχικά κατέβασα τα assets από [εδω](https://connect-prd-cdn.unity.com/20200612/4d373944-9d85-435a-82fb-54db29eb73ce/Unit3_StarterFiles.zip?_ga=2.42213861.1569361259.1592420888-2101839072.1588175812) στη συνέχεια ακολούθησα τις [οδηγίες](https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75) όπως δείξαμε και στο εργαστήριο
+- Για τη συναρμολόγηση του σετ,
+- Τη δημιουργία του κώνου μέσω του Probuilder
 ![konoi](https://user-images.githubusercontent.com/100956280/225167146-83ffca67-33ec-4bdf-ab6f-3811aa3fee22.png)
 
--Τη προσθήκη βασικού φωτισμού συγκεκριμένα Point Lights στα φανάρια έξω από το μαγαζί 
+- Τη προσθήκη βασικού φωτισμού συγκεκριμένα Point Lights στα φανάρια έξω από το μαγαζί 
 ![Pointlights](https://user-images.githubusercontent.com/100956280/225167152-d75e7619-bf34-4342-949c-6971ea60f6ca.png)
 
--Στα Streetlights χρησιμοποίησα spot lights 
+- Στα Streetlights χρησιμοποίησα spot lights 
 ![lights](https://user-images.githubusercontent.com/100956280/225167166-585bb9a0-1f66-4252-bb5c-84264e3a9d65.png)
 
 - Αλλαγη των χρωμάτων των παραθύρων με οδηγίες από [εδω](https://learn.unity.com/tutorial/lesson-3-4-exploring-emissive-materials?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed981dbedbc2a03f97c0646#5edeaa20edbc2a0021a138c0)
 
-Παρακάτω, εφτιαξα μερικά νέα στηρίγματα μέσω του Probuilder χρησιμοποίηση απλά σχήματα όπως κυλίνρους και κύβους  μετακινώντας ,περιστρέφοντας και αλλαζοντας το μέγεθος τους εφτιαξα μία στάση, ενα sign stop station, διαβασεις πεζών, 2 διαφορετικα  barrier για απαγόρευση εισόδου καθώς κατέβασα και τις κατάλληλες εικονες για να δημιουργήσω υλικά και να τα εφαρμοσω στα στηριγματα μου, χρησιμοποίησα επίσης το κώνο που είχα φτίαξει. Επιπλέον χρησιμοποίσα και μερικά έτοιμα όπώς ο θάλαμος τηλεφώνου και το σήμα των McDonald's, τα οποία τα κατεβασα δωρεάν από το [SketchFab]( https://sketchfab.com/search?type=models)
+- Παρακάτω, εφτιαξα μερικά νέα στηρίγματα μέσω του Probuilder χρησιμοποίηση απλά σχήματα όπως κυλίνρους και κύβους  μετακινώντας ,περιστρέφοντας και αλλαζοντας το μέγεθος τους εφτιαξα μία στάση, ενα sign stop station, διαβασεις πεζών, 2 διαφορετικα  barrier για απαγόρευση εισόδου καθώς κατέβασα και τις κατάλληλες εικονες για να δημιουργήσω υλικά και να τα εφαρμοσω στα στηριγματα μου, χρησιμοποίησα επίσης το κώνο που είχα φτίαξει. Επιπλέον χρησιμοποίσα και μερικά έτοιμα όπώς ο θάλαμος τηλεφώνου και το σήμα των McDonald's, τα οποία τα κατεβασα δωρεάν από το [SketchFab]( https://sketchfab.com/search?type=models)
 
 ![props1](https://user-images.githubusercontent.com/100956280/225168729-2a76bfb8-b18c-4964-9824-91f90ff918d4.png)
 ![props2](https://user-images.githubusercontent.com/100956280/225168733-e26d85d4-2725-4669-9bce-61e7b212025d.png)

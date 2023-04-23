@@ -191,7 +191,12 @@ https://user-images.githubusercontent.com/100956280/233859493-4ed5e856-c479-4fea
 
 https://user-images.githubusercontent.com/100956280/233864665-9a5e4426-937f-4298-a87f-819501bc4e73.mp4
 
+- Στην συνέχεια πρόσθεσα περοσσότερα εφέ στον φωτισμό σύμφωνα με τις οδηγίες έβαλα ομίχλη δημιούργησα το Bloom effect αλλάζοντας τιμές το threshold, το intensity και το scatter,τονική χαρτογράφηση, πρόσθεσα το Shadows Midtones Highlights που ελέγχει ξεχωριστά τις τιμές για τις σκιές, τους μεσαίους τόνους και τις επισημάνσεις, το Color Adjustments, το Color Filter,όρισα το Lift Gamma Gain και το White Balance όπως και τέλος το Motion blur.
+![Στιγμιότυπο οθόνης (849)](https://user-images.githubusercontent.com/100956280/233866105-a8805606-7972-4c0e-924a-865742d35540.png)
 
+![1](https://user-images.githubusercontent.com/100956280/233866199-c46acfed-5e07-4f43-8161-f230aabb7247.png)
+![2](https://user-images.githubusercontent.com/100956280/233866290-84ec5da5-550d-4121-8f33-dd3bb30889a9.png)
+![3](https://user-images.githubusercontent.com/100956280/233866276-53f1847e-b60e-439b-be1b-dfd26104c902.png)
 
 # 3rd Deliverable 
 

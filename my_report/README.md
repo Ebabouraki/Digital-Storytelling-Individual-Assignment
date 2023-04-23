@@ -1,7 +1,6 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: Ελένη Βαβουράκη![lights](https://user-images.githubusercontent.com/100956280/233864990-c45f2261-47db-4c3f-a985-ef761f7b7174.png)
-
+### First and Last Name: Ελένη Βαβουράκη
 ### University Registration Number: dpsd19009
 ### GitHub Personal Profile: https://github.com/Ebabouraki
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment

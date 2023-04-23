@@ -1,6 +1,7 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: Ελένη Βαβουράκη
+### First and Last Name: Ελένη Βαβουράκη![lights](https://user-images.githubusercontent.com/100956280/233864990-c45f2261-47db-4c3f-a985-ef761f7b7174.png)
+
 ### University Registration Number: dpsd19009
 ### GitHub Personal Profile: https://github.com/Ebabouraki
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment
@@ -165,8 +166,31 @@ https://user-images.githubusercontent.com/100956280/233858409-78680ad7-74c2-4296
 https://user-images.githubusercontent.com/100956280/233859493-4ed5e856-c479-4fea-884d-a3e6d9f494b0.mp4
 
 
+**Unit 6**
 
+- Σε αυτό το Unit με τη βοήθεια απο το tutorial [Unit6](https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75)
 
+-  Στο κεντρικό δρόμο έβαλα 3 φωτιστικά με 3 spot lights με πορτοκάλι χρώμα. Ρύθμισα στο καθένα ξεχωριστά την εμβέλεια, το χρώμα και την ισχή της φωτεινότητας που ήθελα και ταίριαζε με την σκηνή μου. Στη στάση λεωφορείου έβαλα 5 points lights 2 λευκά δεξια και αριστερά για να φωτιζονται οι αφίσες, ενα κυανό στα δεξιά της στασης στη διάβαση, ενά πορτοκαλί μπορστα από τη στάση στην άλλη διάβαση για να είναι πιο θερμά τα χρώματα και ένα πρασινο στα αριστερά της στάσης στο καρτοτηλέφωνο ρύθμιζωντας επίσης στο καθένα ξεχωριστά την εμβέλεια και την ισχή της φωτεινότητας.
+
+![Street lights2](https://user-images.githubusercontent.com/100956280/233862444-49318257-e4da-4f93-8673-6936a60272c2.png)
+
+![Street lights1](https://user-images.githubusercontent.com/100956280/233862137-f1da2ac1-f1cd-4b4c-aa9e-73827d022c2b.png)
+
+- Έβαλα 2 points lights ένα μπεζ και ένα μπλε στο μαγαζάκι και 2 points lights ένα κόκκινο και ένα κιτρινο στα φαναράκια απέναντι 
+
+![shop lights](https://user-images.githubusercontent.com/100956280/233862300-6ced2e22-afb5-4b7e-a9a5-0153b49c31fc.png)
+
+- Στο κάθετο δρόμο έβαλα 6 φωτιστικά με 6 spot lights, 3 στη κάθε πλευρα του δρόμου με αποχρώσεις του πράσινου, γαλάζιου και μωβ. Ρύθμισα στο καθένα ξεχωριστά την εμβέλεια και την ισχή της φωτεινότητας που ήθελα και ταίριαζε με την σκηνή μου.
+![road lights](https://user-images.githubusercontent.com/100956280/233862362-b5f03fc7-7cc8-437a-be93-692b4ef77a88.png)
+
+-Στα φανάρια των αυτοκινήτων έβαλα από  2 points lights στο καθέ ένα σαν παιδιά τους έτσι ώστε να μετακινηθούν μαζί τους
+![cars lights](https://user-images.githubusercontent.com/100956280/233862492-b96b9a3c-22cf-430a-9f24-54488bfe7e07.png)
+
+Στη συνέχεια έβαλα τα φώτα μου στο timeline ώστε να ρυμθίσω την διάρκειά τους, πότε θα είναι αναμένα ή όχι κατά την διάρκεια της ταινίας μου.
+
+![lights](https://user-images.githubusercontent.com/100956280/233865020-a8a876b2-7bba-48e1-9484-4bbf0b52bee3.png)
+
+https://user-images.githubusercontent.com/100956280/233864665-9a5e4426-937f-4298-a87f-819501bc4e73.mp4
 
 
 

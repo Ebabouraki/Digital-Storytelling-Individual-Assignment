@@ -222,32 +222,68 @@ https://user-images.githubusercontent.com/100956280/233864665-9a5e4426-937f-4298
 https://user-images.githubusercontent.com/100956280/233868187-d0c525a2-ca68-4cbe-b033-8acfe53a22ec.mp4
 
 **Unit 7**
-- Σε αυτό το Unit με τη βοήθεια απο το tutorial [Unit6.1](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2) δημιούργησα particle effects. Πρώτον έφτιαξα τη βροχή  να μοιάζει πιο ρεαλιστική (Clouds, Mist, Ripples, Splashes) με βοήθεια από αυτό το [βίντεο](https://youtu.be/Ph3FvxJJ8AA).
+- Σε αυτό το Unit με τη βοήθεια αρχικά απο το tutorial [Unit7.1](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2) δημιούργησα `particle effects`. Πρώτον έφτιαξα τη βροχή  να μοιάζει πιο ρεαλιστική (Clouds, Mist, Ripples, Splashes) με βοήθεια από αυτό το [βίντεο](https://youtu.be/Ph3FvxJJ8AA).
 ![βροχη](https://user-images.githubusercontent.com/100956280/234586139-b995c243-ce2b-4ef8-8dc3-2d5ddaab807b.png)
 
 
-- Για το εφέ της βροχής αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,Start Lifetime,Start size,color over Lifetime και size over Lifetime για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το shape προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
+- Για το εφέ της βροχής αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `size over Lifetime `για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 
 https://user-images.githubusercontent.com/100956280/234590538-c1777d7e-ce63-4fca-ac1a-c05339d6a67b.mp4
 
-- Για το εφέ ομίχλης όπως και προηγουμένως αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,Start Lifetime,Start size,color over Lifetime και Σize over Lifetime για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το shape προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
+- Για το εφέ ομίχλης όπως και προηγουμένως αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `Size over Lifetime` για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 https://user-images.githubusercontent.com/100956280/234591219-84801f9e-dd72-494c-8456-07151d718900.mp4
 
-- Για το εφέ splashes της βροχής οπως και προηγουμένως αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,Start Lifetime,Start size,color over Lifetime και Σize over Lifetime για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το shape προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
+- Για το εφέ splashes της βροχής οπως και προηγουμένως αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `Size over Lifetime `για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 
 https://user-images.githubusercontent.com/100956280/234592599-676b3231-e47b-46e6-ae01-41b3074556c2.mp4
 
-- Επίσης για τη δημιουργία της βροχής κατέβασα το `Visual Effect Graph` από το `Package Manager` και στη συνεχεια δημιούργησα ένα εφέ Simple Sparks όπως και στο tutorial αλλάζοντας τις τιμές για να ταιριάζουν στη δική μου σκηνη και αλλάζοντας το main texture με δική μου εικόνα για να δημιουργήσω ψιχάλες
+- Επίσης για τη δημιουργία της βροχής κατέβασα το `Visual Effect Graph` από το `Package Manager` και στη συνεχεια δημιούργησα ένα εφέ `Simple Sparks` όπως και στο tutorial αλλάζοντας τις τιμές για να ταιριάζουν στη δική μου σκηνη και αλλάζοντας το main texture με δική μου εικόνα για να δημιουργήσω ψιχάλες
 
 ![rain_vfx](https://user-images.githubusercontent.com/100956280/234595236-3ee4672d-357f-4a01-934d-b214d76d1539.png)
 
 
 https://user-images.githubusercontent.com/100956280/234596012-1b503db1-f6b6-4ecc-8152-5b68cd091d19.mp4
 
-- Ακόμα για τις αστραπές κατέβασα απο [Unity asset store](https://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471) και το έκανα import και πρόσθεσα το εφέ στη σκηνή μου σε διάφορα σημεία.
+- Ακόμα για τους κεραυνούς κατέβασα απο [Unity asset store](https://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471) και το έκανα import και πρόσθεσα το εφέ στη σκηνή μου σε διάφορα σημεία.
+
+- Στη συνέχεια με τη βοήθεια απο το tutorial [Unit7.2](https://learn.unity.com/tutorial/lesson-7-2-working-with-audio?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33) πρόσθεσα `ήχο` στη ταινία μου.
+
+- Δημιούργησα ένα `GameObject `για το  `Background_Music` και πρόσθεσα ένα `audio source` βάζοντας το επιλεγμένο κομμάτι στο `audio clip` και κατέβασα την ένταση του ήχου 
+- Δημιούργησα ένα `newAudioMixer (Audio listener) - Inactive` και το έβαλα στο `Output` του `audio sourse`για το `Background music`. Στο `Audio mixer` πρόσθεσα το εφέ `ParamEQ `και έβαλα τις τιμές έτσι ώστε να ακούγεται ο ήχος σε ένα εξωτερικο χώρο. Πρόσθεσα ακόμα εφέ βάθους στον ήχο προσθέτοντας την επέκταση `Audio Reverb Filter` και επέλεξα στο πεδίο `Reverb Preset`  την ένδειξη `City` και μέσω της επέκτασης `Audio Echo Filter` πρόσθεσα ηχώ.
+
+Background_Music:
+
+![Στιγμιότυπο οθόνης (894)](https://user-images.githubusercontent.com/100956280/234599913-df940f4c-6217-436e-9b78-b48bda9c24a2.png)
+
+Audio mixer:
+
+![Στιγμιότυπο οθόνης (895)](https://user-images.githubusercontent.com/100956280/234603357-742bb461-e92e-4fca-800e-4f5cb92b4b2c.png)
+
+Audio Reverb Filter και Audio Echo Filter:
+
+![Στιγμιότυπο οθόνης (896)](https://user-images.githubusercontent.com/100956280/234604024-d01ed994-c35b-4028-890b-566ef134fe52.png)
+
+
+- Παρακάτω το πρόσθεσα στη `γραμμή χρόνου` καθώς πρόσθεσα κλιπ ήχου για τη βροχή, η οποία περιλαμβάνει 3 διαφορετικές διαβαθμίσεις ήχου light, medium και high τα οποία τα θέτω `active` ή `inactive` σταδιακά καθώς προχωράει η ταινια και για τους κεραυνούς αναλόγως πότε εμφανίζονται στη σκήνη έκανα `active` το κλιπ ήχου και αλλάζοντας την ένταση ανάλογα τη διάρκεια του. Ακόμα πρόσθεσα `audio source` στα αυτοκινητα και στο λεωφορείο και έβαλα ήχο πως κινούνται.
+
+
+- Έπειτα με τη βοήθεια απο το tutorial [Unit7.3](https://learn.unity.com/tutorial/lesson-7-3-titles?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33) πρόσθεσα `τίτλο` στην αρχή της ταινίας μου καθώς και `fade in` και στο τέλος `fade out`.
+
+- Πρόσθεσσ το `TextMesh Pro` και έκανα  εισαγωγή των παραδειγμάτων TMP και των πρόσθετων στοιχείων .
+-  Πηγαίνοντας στην ιεραρχια στο `UI > Text - TextMeshPro` και εγραψα το τίτλο μου επέλεξα γραμματοσειρα, χρώματα,περίγραμμα,λάμψη και τον έβαλα να βρίσκεται στο κέντρο 
+
+
+https://user-images.githubusercontent.com/100956280/234610409-2362ab5b-2cb4-4b6c-8de0-605c65d3c670.mp4
+
+- Ο `τίτλος` διαμορφώθηκε ως εξης:
+
+![Στιγμιότυπο οθόνης (897)](https://user-images.githubusercontent.com/100956280/234610928-e40a9a31-3bd8-4114-9a20-afb777377b57.png)
+
+- Δημιούργησα ένα `animation track `για το τίτλο αρχικά πρόσθεσα ένα `κλειδί` στο frame 0 και τον έκανα διάφανο το `alpha = 0` και μετά στο frame 10 τον εμφάνισα έκανα το `alpha = 255` και μετά στο frame  35 τον ξαναέκανα δίαφανο το `alpha = 0`. Ακόμα για το `fade in` στο title canva προσθεσα μια `είκονα` και έβαλα το χρώμα μαύρο και στο `timeline` στο frame 0 έβαλα το `alpha = 255 `και στο frame 10 το έκανα `alpha = 0` και για το `fade out` στο frame 230 το έβαλα το `alpha = 0` και στο frame 240 το έκανα `alpha = 255`.
+
 
 
 - Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ όπως και στο προηγόυμενο παραδοτέο

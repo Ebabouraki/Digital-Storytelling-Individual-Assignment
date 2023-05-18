@@ -303,6 +303,8 @@ https://user-images.githubusercontent.com/100956280/233868378-1fe6efea-564b-4f16
 - Στη συνέχεια, αποφάσισα σύμφωνα με το παιχνίδι που έιχα δημιουργήσει στο προηγούμενο μαθημα στα Ψηφιακά παιχνίδια με το Θησέα και το Μινώταυρο να δημιουργήσω ένα short animation film ως intro του. Αφού είχε προηγηθεί ένα Brainstorming για το σενάριο της ταινίας μου, έκανα μια έρευνα για assets για το παλάτι της Κνωσσού, τα κτήρια, τους χαρακτήρες(Θησέας,Αριάδνη,Μινώταυρος) καθως και τα props, τα οποία κατεβασα από το [Sketchfab](https://sketchfab.com/feed) και το [Unity asset store](https://assetstore.unity.com)  για να δημιουργήσω τη δική μου εκδοχή 3d μοντελοποίσης.
 
 - Συναρμολόγηση του σετ:
+![Knossos](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/e35af5fc-6d55-4714-86a2-7d63f2c81c47)
+![knossos palace](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a34308e4-17e2-49c5-b491-3d01dcc6d74d)
 
 
 -Στη συνεχεια έφτιαξα τα animation των χαρακτήρων μου στο `Timeline`. Βρήκα και κατέβασα έτοιμα animations από το [Mixamo](https://www.mixamo.com/#/). 

@@ -475,6 +475,47 @@ CM vcam10:
 ![Στιγμιότυπο οθόνης (928)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/fdb2ec13-3dbb-476c-a1de-9eeedd93b457)
 
 
+με τη βοήθεια αρχικά απο το tutorial [Unit7.1](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2) δημιούργησα `particle effects`. 
+- Πρώτον έφτιαξα τις φλόγες που βγαίνουν απο τα torches και τα braziers
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/fe6f98d9-f625-4f27-94f2-ce603ec89167
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/596bfe68-9623-4947-9e6a-d9d3d055fe56
+
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a5dddc91-6705-40e0-a64d-bb656372ea6c
+
+
+
+- To εφέ από το χτήπημα του μινώταυρου (Earth sader)
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/6153b65b-5d19-4708-b2db-847c324712b1
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/9a36b65c-8bc8-4a05-bb7d-4c400c3f217d
+
+
+- 2 Εφέ από τα χτηπήματα του Θησέα με το σπαθί
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/16b7c577-31de-494e-8653-50aacb812457
+
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/b38097bb-7390-47ee-a817-77279073e089
+
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/ba89fbd1-40cf-4e45-8a1c-39b05dc4ffa8
+
+
+
+
+
 
 
 # Conclusions

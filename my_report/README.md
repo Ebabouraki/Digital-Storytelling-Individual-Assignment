@@ -395,30 +395,41 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 - Με τον ίδιο τρόπο κάδραρα και τα επόμενα frame που ήθελα, οι 10 εικονικές κάμερες έχουν πλαισιώσει τα εξής πλάνα απο το σετ:
 
 CM vcam1:
+![Στιγμιότυπο οθόνης (911)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/8a0c3a39-f034-44e6-936b-e652b06fc752)
 
 
 CM vcam2:
+![Στιγμιότυπο οθόνης (912)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/c27b5b85-49b9-4fb4-84c4-e63e5b842730)
 
 CM vcam3:
+![Στιγμιότυπο οθόνης (913)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/48bc8f3f-58cb-433b-aa78-8c8ae3c0e303)
 
 CM vcam4:
+![Στιγμιότυπο οθόνης (914)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/d66e7d0b-cce8-4d4b-a770-843cc169cf8c)
 
 CM vcam5:
+![Στιγμιότυπο οθόνης (915)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/74fbd68d-ac91-43ab-9c51-f24ff763a7a3)
+
 
 CM vcam6:
+![Στιγμιότυπο οθόνης (916)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/5350bc2c-cffc-4d93-81c1-ab2c008c883e)
 
 CM vcam7:
+![Στιγμιότυπο οθόνης (917)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a6d8fafc-1916-4388-b1bc-9daf6e84dd98)
 
 CM vcam8:
+![Στιγμιότυπο οθόνης (918)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/50683d86-e214-431b-849a-c18f8a2caa97)
 
 CM vcam9:
+![Στιγμιότυπο οθόνης (919)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/ed0ddb17-e462-436c-b51d-1837a484e23d)
 
 CM vcam10:
+![Στιγμιότυπο οθόνης (920)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/f9d726c1-14ca-4c77-b463-a0ae80921d6d)
 
 
 
 
-- Στη πρώτη και στη 3η εικονική κάμερα πρόσθεσα ένα `animation track` για να δώσω `κίνηση` στη κάμερα προς τα εμπρος και αριστερα αντίστοιχα όπως φαινεται παρακάτω ενώ δε χρειαστηκε για τη 2η και 4η εικονική κάμερα 
+- Τη τέταρτη εικονική κάμερα την ήθελα σταθερή για να εστιάσζει στη συζήτηση του θησέα με την Αριάδνη. Στις υπόλοιπες πρόσθεσα ένα `animation track` για να δώσω `κίνηση` στη κάμερα προς τα εμπρος και αριστερα αντίστοιχα όπως φαινεται παρακάτω ενώ δε χρειαστηκε για τη 2η και 4η εικονική κάμερα 
 
 1η κάμερα
 

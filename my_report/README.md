@@ -311,6 +311,63 @@ https://user-images.githubusercontent.com/100956280/233868378-1fe6efea-564b-4f16
 
 Για το Θησέα χρησιμοποίησα τα παρακάτω animations: 
 
+- Walking
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/3d22138a-bcb4-4982-9b94-2e13d142f626
+
+- Walking Up the Stairs
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/1d83c785-9c70-468e-8903-4b8c7b364203
+
+- Yelling
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/71459181-0e77-45c4-9bf3-9df8049401db
+
+- Talking
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/52d6bf20-05fa-44ca-ad79-14d52ca943c8
+
+- Standing Idle
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/484d162a-d184-4dc0-85a4-2e71d6c36790
+
+- Pick 
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/0b0d3876-37d8-40e9-b2ee-69883d88ddc0
+
+- Attack
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a477321c-8895-4d48-a3a4-7957a3ebba1b
+
+- Sword Idle
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/45d42610-e9e0-49e9-9f0d-2c5c4d3dd7c1
+
+
+
+Για το Μινώταυρο χρησιμοποίησα τα παρακάτω animations: 
+
+- Headbutt 
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a14aec5d-3b53-442c-99f0-173401fa7a47
+
+- Hit Reaction
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/70407be0-6035-4ec6-b306-db07b1cb1756
+
+- Roar
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/4c8fd9ac-9a81-4db5-9d5d-6c736dd18b56
+
+- Death 
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/1688a566-6d38-4045-8c26-633443d57c13
+
+
+
+Για την Αριάδνη χρησιμοποίησα τα παρακάτω animations: 
+
+
 
 
 # Conclusions

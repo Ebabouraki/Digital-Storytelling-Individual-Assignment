@@ -531,7 +531,8 @@ Audio mixer:
 
 Audio Reverb Filter και Audio Echo Filter:
 
-![Στιγμιότυπο οθόνης (896)](https://user-images.githubusercontent.com/100956280/234604024-d01ed994-c35b-4028-890b-566ef134fe52.png)
+![audio bg](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/c53e1b48-2c37-4255-9231-fdce04742927)
+
 
 
 - Παρακάτω το πρόσθεσα στη `γραμμή χρόνου` καθώς πρόσθεσα κλιπ ήχου για τα βήματα του Θησεα, για τα χτηπήματα του Θησεα με το σπαθί, και τα χτηπήματα του Μινώταυρου και τέλος κραυγή πόνου όταν πεθαίνει ο Μινώταυρος.
@@ -539,6 +540,25 @@ Audio Reverb Filter και Audio Echo Filter:
 ![SFX](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/845f8f77-6434-4ba6-bf2b-76d077279618)
 
 
+- Έπειτα με τη βοήθεια απο το tutorial [Unit7.3](https://learn.unity.com/tutorial/lesson-7-3-titles?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33) πρόσθεσα τους `διαλόγους` της Αριάδνης και του Θησέα, το `τίτλο` στην αρχή της ταινίας μου καθώς και `fade in` και στο τέλος `fade out`.
+
+-  Πηγαίνοντας στην ιεραρχια στο `UI > Image` πρόσθεσα την παρακάτω εικόνα με τα dialog box που έφτιαξα στο Photoshop και δημιουργησα ένα `activation track` για τα dialog box  στο `timeline` ώστε να ρυμθίσω την `διάρκειά` τους, πότε θα είναι αναμένα `active` ή όχι `inactive` κατά την διάρκεια της ταινίας μου
+
+![title](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/18adc75d-a188-4de1-82fa-d9a2064973fe)
+
+
+
+- Δημιούργησα ένα `animation track `για την εικόνα  αρχικά πρόσθεσα ένα `κλειδί` στο frame 0 και  έκανα  το `alpha = 255` και μετά στο frame 120 τον εξαφάνισα έκανα το `alpha = 0`  Ακόμα για το `fade in` στο title canva προσθεσα μια `είκονα` και έβαλα το χρώμα μαύρο και στο `timeline` στο frame 50 έβαλα το `alpha = 255 `και στο frame 140 το έκανα `alpha = 0` και για το `fade out` στο frame 3050 το έβαλα το `alpha = 0` και στο frame 3200 το έκανα `alpha = 255`.
+
+
+
+- Στο `Timeline`  πρόσθεσα ένα κομμάτι εγγραφής `UnityEditor.Recorder.Timeline > Recorder Track`  και πρόσθεσα ένα `κλιπ εγγραφής` και προσάρμοσα στο inspector τις ρυθμίσεις απόδοσης του κλιπ 
+![recorder clip](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/6a1cbe4f-2ca6-415f-b247-ae1b71cfcddc)
+
+- Τέλος,πάτησα το Play στο επάνω κέντρο του Editor. Όταν ξεκινά η Λειτουργία αναπαραγωγής στο παράθυρο Παιχνίδι, το Recorder αποδίδει το εξαγόμενο αρχείο .mp4.
+
+
+- Το τελικό αποτέλεσμα είναι το εξής:
 
 
 # Conclusions

@@ -436,47 +436,45 @@ CM vcam10:
 
 
 - Στην εισοδο του παλατιού πρόσθεσα `point lights` με πορτοκάλοκίτρινο χρώμα στη κάθε κολωνα.Ρύθμισα στο καθένα ξεχωριστά την `εμβέλεια`, και την `ισχή της φωτεινότητας` που ήθελα και ταίριαζε με την σκηνή μου.
+![Στιγμιότυπο οθόνης (921)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/366550b7-72d1-4e2b-a9c6-b546e2c83426)
 
 
--  Στα παράθυρα του πρώτου διαδρομου πρόσθεσα από 2 `point lights` με πορτοκάλι χρώμα στο καθένα. Ρύθμισα στο καθένα ξεχωριστά την `εμβέλεια`, και την `ισχή της φωτεινότητας` που ήθελα και ταίριαζε με την σκηνή μου. Καθώς πρόσθεσα `point lights` με μπεζ χρώμα στη κάθε κολωνα ρύθμιζωντας επίσης στο καθένα ξεχωριστά την `εμβέλεια` και την `ισχή της φωτεινότητας`.
+-  Στα παράθυρα του πρώτου διαδρομου πρόσθεσα από 2 `point lights` με πορτοκάλι χρώμα στο καθένα. Καθώς πρόσθεσα `point lights` με μπεζ χρώμα στη κάθε κολωνα ρύθμιζωντας επίσης στο καθένα ξεχωριστά την `εμβέλεια` και την `ισχή της φωτεινότητας` που ήθελα και ταίριαζε με την σκηνή μου.
+![Στιγμιότυπο οθόνης (922)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/f9121151-69c6-4664-b1d8-e2489624b524)
 
-- Στον επόμενο διάδρομο έβαλα ένα 
+- Στον επόμενο διάδρομο έβαλα ένα `point light` για να φωτίζεται ο διπλός πέλυκης καθως και ο διάδρομος. 
+![Στιγμιότυπο οθόνης (923)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/f84306be-e299-46dc-9bae-ae0b4645a8ed)
 
-![Street lights2](https://user-images.githubusercontent.com/100956280/233862444-49318257-e4da-4f93-8673-6936a60272c2.png)
+- Στην εξωτερική αυλή έβαλα 1 λευκο `spot light` για να φωτίζει την Αριάδνη καθως και 2 λευκά `point lights` στις 2 κολώνες πίσω της  Ρύθμισα στο καθένα ξεχωριστά την `εμβέλεια` και την `ισχή της φωτεινότητας` που ήθελα και ταίριαζε με την σκηνή μου.
 
-![Street lights1](https://user-images.githubusercontent.com/100956280/233862137-f1da2ac1-f1cd-4b4c-aa9e-73827d022c2b.png)
+![Στιγμιότυπο οθόνης (924)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/b03c4ec2-9a8b-4e3a-8770-108c34553942)
 
-- Έβαλα 2 `points lights` ένα μπεζ και ένα μπλε στο μαγαζάκι και 2 points lights ένα κόκκινο και ένα κιτρινο στα φαναράκια απέναντι 
+- Έβαλα 1 ανοιχτό κιτρινο`spot light` για να φωτίζει τον Θησέα όταν μπάινει στο Λαβύρινθο ρύθμισα  την `εμβέλεια` και την `ισχή της φωτεινότητας` 
+![Στιγμιότυπο οθόνης (925)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/b138d77f-650a-4c14-aa17-d12ae755bf76)
 
-![shop lights](https://user-images.githubusercontent.com/100956280/233862300-6ced2e22-afb5-4b7e-a9a5-0153b49c31fc.png)
+- Πρόσθεσα ένα `spot light` για να φωτίζει τη σκηνή στην οποία γίνεται η μάχη του Θησέα και του Μινώταυρου 
+![Στιγμιότυπο οθόνης (926)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/1e36d64c-6692-4737-88a6-35765b57a2a0)
 
-- Στο κάθετο δρόμο έβαλα 6 φωτιστικά με 6 `spot lights`, 3 στη κάθε πλευρα του δρόμου με αποχρώσεις του πράσινου, γαλάζιου και μωβ. Ρύθμισα στο καθένα ξεχωριστά την `εμβέλεια` και την `ισχή της φωτεινότητας` που ήθελα και ταίριαζε με την σκηνή μου.
-![road lights](https://user-images.githubusercontent.com/100956280/233862362-b5f03fc7-7cc8-437a-be93-692b4ef77a88.png)
 
--Στα φανάρια των αυτοκινήτων έβαλα από  2 `points lights` στο καθέ ένα σαν `θυγατρικά` τους έτσι ώστε να μετακινηθούν μαζί τους, πρόσθεσα και ανθρώπους μεσα στα αυτοκινητα 
-![cars lights](https://user-images.githubusercontent.com/100956280/233862492-b96b9a3c-22cf-430a-9f24-54488bfe7e07.png)
+Στη συνέχεια έβαλα ορισμένα `φώτα`  στο `timeline` ώστε να ρυμθίσω την `διάρκειά` τους, πότε θα είναι αναμένα `active` ή όχι `inactive` κατά την διάρκεια της ταινίας μου.Τα υπόλοιπα ήθελα να είναι αναμμένα καθόλη τη διαρκεια της ταινίας
+![lights timeline](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/e93bfeb2-ce61-4db3-9630-0cfa3346ba44)
 
-Στη συνέχεια έβαλα τα `φώτα` μου στο `timeline` ώστε να ρυμθίσω την `διάρκειά` τους, πότε θα είναι αναμένα `active` ή όχι `inactive` κατά την διάρκεια της ταινίας μου.
 
-![lights](https://user-images.githubusercontent.com/100956280/233865020-a8a876b2-7bba-48e1-9484-4bbf0b52bee3.png)
-
-https://user-images.githubusercontent.com/100956280/233864665-9a5e4426-937f-4298-a87f-819501bc4e73.mp4
-
-- Στην συνέχεια πρόσθεσα περοσσότερα `εφέ` στον φωτισμό σύμφωνα με τις οδηγίες έβαλα `ομίχλη` δημιούργησα το `Bloom effect` αλλάζοντας τιμές το `threshold`, το `intensity` και το `scatter`,`tonemapping`, πρόσθεσα το `Shadows Midtones Highlights` που ελέγχει ξεχωριστά τις τιμές για τις `σκιές`, τους `μεσαίους τόνους` και τις `επισημάνσεις`, το `Color Adjustments`,όρισα το `White Balance` και τέλος το `Motion blur`.
-![Στιγμιότυπο οθόνης (849)](https://user-images.githubusercontent.com/100956280/233866105-a8805606-7972-4c0e-924a-865742d35540.png)
+- Στην συνέχεια πρόσθεσα περοσσότερα `εφέ` στον φωτισμό σύμφωνα με τις οδηγίες δημιούργησα το `Bloom effect` αλλάζοντας τιμές το `threshold`, το `intensity` και το `scatter`,`tonemapping`, πρόσθεσα το `Shadows Midtones Highlights` που ελέγχει ξεχωριστά τις τιμές για τις `σκιές`, τους `μεσαίους τόνους` και τις `επισημάνσεις`, το `Color Adjustments`,όρισα το `White Balance` και τέλος το `Motion blur`.
 
 ![1](https://user-images.githubusercontent.com/100956280/233866199-c46acfed-5e07-4f43-8161-f230aabb7247.png)
 ![2](https://user-images.githubusercontent.com/100956280/233866290-84ec5da5-550d-4121-8f33-dd3bb30889a9.png)
 ![3](https://user-images.githubusercontent.com/100956280/233866276-53f1847e-b60e-439b-be1b-dfd26104c902.png)
 
 - Παρακάτω στη CM vcam1 στο Inspector έκανα Προσθήκη επέκτασης και επιλέξτε CinemachineVolumeSettings και δημιουργησα ένα νέο προφίλ στο στοιχείο Cinemachine Volume Settings. Πρόσθεσα ένα εφέ βινιέτας, κατά το οποίο η κάμερα μαλακώνει ή θολώνει τις άκρες μιας λήψης, κάνοντας το κέντρο στο επίκεντρο. Πάτησα ξανά Add Override και επέλεξα Post-processing > Vignette και τροποποίησα τις τιμές όπως στο tutorial.
+![Στιγμιότυπο οθόνης (927)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/cdae214b-bbad-464c-a0af-7e352f982268)
 
-![βινιετα 1](https://user-images.githubusercontent.com/100956280/233867283-e92da091-ccaf-4970-a9a6-8551a29816a7.png)
 
 
--    Με τον ίδιο τρόπο πρόσθεσα το εφέ βινιετας και στη δευτερη εικονική κάμερα αλλά πρόσθεσα και βάθος πεδίου, το οποίο αναφέρεται στο εύρος της απόστασης στην οποία ένα αντικείμενο παραμένει στο επίκεντρο. Εγώ ήθελα να εστιάσω στο αυτοκίνητο που είναι πιο κοντά στη κάμερα κάθε φορά οπότε έχω βάλει βάθος με μικρό εστιακό εύρος.
+-    Με τον ίδιο τρόπο πρόσθεσα το εφέ βινιετας και στη δευτερη εικονική κάμερα αλλά πρόσθεσα και βάθος πεδίου, το οποίο αναφέρεται στο εύρος της απόστασης στην οποία ένα αντικείμενο παραμένει στο επίκεντρο. Εγώ ήθελα να εστιάσω στο Θησέα που είναι πιο κοντά στη κάμερα κάθε φορά οπότε έχω βάλει βάθος με μικρό εστιακό εύρος.
+![Στιγμιότυπο οθόνης (928)](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/fdb2ec13-3dbb-476c-a1de-9eeedd93b457)
 
-![βινιετα2](https://user-images.githubusercontent.com/100956280/233867290-7a0da3a8-75e2-4d25-a652-4cfcc2cbdccd.png)
+
 
 
 # Conclusions

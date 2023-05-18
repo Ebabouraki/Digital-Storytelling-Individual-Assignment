@@ -367,6 +367,18 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 
 Για την Αριάδνη χρησιμοποίησα τα παρακάτω animations: 
 
+- Standing Idle
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/2cd4929f-d7e2-4426-97ed-49d917a8f68a
+
+
+
+- Talking
+
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/2cd4929f-d7e2-4426-97ed-49d917a8f68a
+
 
 
 

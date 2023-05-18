@@ -476,7 +476,7 @@ CM vcam10:
 
 
 με τη βοήθεια αρχικά απο το tutorial [Unit7.1](https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2) δημιούργησα `particle effects`. 
-- Πρώτον έφτιαξα τις φλόγες που βγαίνουν απο τα torches και τα braziers
+- Πρώτον έφτιαξα τις φλόγες που βγαίνουν απο τα torches και τα braziers αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `Size over Lifetime `για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 
 https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/fe6f98d9-f625-4f27-94f2-ce603ec89167
@@ -490,7 +490,7 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 
 
 
-- To εφέ από το χτήπημα του μινώταυρου (Earth sader)
+- To εφέ από το χτήπημα του μινώταυρου (Earth sader) αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `Size over Lifetime `για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 
 https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/6153b65b-5d19-4708-b2db-847c324712b1
@@ -499,7 +499,7 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/9a36b65c-8bc8-4a05-bb7d-4c400c3f217d
 
 
-- 2 Εφέ από τα χτηπήματα του Θησέα με το σπαθί
+- 2 Εφέ από τα χτηπήματα του Θησέα με το σπαθί αλλάξα τις ιδιότητες του συστήματος σωματιδίων κάνοντας προσαρμογές στο Inspector πιο συγκεκριμένα,`Start Lifetime`,`Start size`,`color over Lifetime` και `Size over Lifetime `για να ξεθωριάζει και να αλλάζει το μέγεθος με την πάροδο του χρόνου και το `shape` προσαρμόζοντας τις τιμές κατάλληλα έτσι ώστε να ταιριαζει με τη σκηνή μου.
 
 
 https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/16b7c577-31de-494e-8653-50aacb812457
@@ -512,8 +512,31 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 
 https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/ba89fbd1-40cf-4e45-8a1c-39b05dc4ffa8
 
+Στη συνέχεια έβαλα τα `εφε`  στο `timeline` ώστε να ρυμθίσω την `διάρκειά` τους, πότε θα είναι αναμένα `active` ή όχι `inactive` κατά την διάρκεια της ταινίας μου.
+![VFX](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/b003ff09-dcfa-4cb8-b454-94b718cf1832)
+
+- Δημιούργησα ένα `GameObject `για το  `Background_Music` και πρόσθεσα ένα `audio source` βάζοντας το επιλεγμένο κομμάτι στο `audio clip` και κατέβασα την ένταση του ήχου 
+- Δημιούργησα ένα `newAudioMixer (Audio listener) - Inactive` και το έβαλα στο `Output` του `audio sourse`για το `Background music`. Στο `Audio mixer` πρόσθεσα το εφέ `ParamEQ `και έβαλα τις τιμές έτσι ώστε να ακούγεται ο ήχος σε ένα εξωτερικο χώρο. Πρόσθεσα ακόμα εφέ βάθους στον ήχο προσθέτοντας την επέκταση `Audio Reverb Filter` και επέλεξα στο πεδίο `Reverb Preset`  την ένδειξη `Cave` και μέσω της επέκτασης `Audio Echo Filter` πρόσθεσα ηχώ.
+
+Background_Music:
+
+![Στιγμιότυπο οθόνης (894)](https://user-images.githubusercontent.com/100956280/234599913-df940f4c-6217-436e-9b78-b48bda9c24a2.png)
+
+Audio mixer:
+![audio mixer 1](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/9906b998-3b03-4d5f-91cb-3228763639dc)
+
+![audio mixer 2](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/a9d6da20-eba7-4b86-a498-87354af6cfae)
 
 
+
+Audio Reverb Filter και Audio Echo Filter:
+
+![Στιγμιότυπο οθόνης (896)](https://user-images.githubusercontent.com/100956280/234604024-d01ed994-c35b-4028-890b-566ef134fe52.png)
+
+
+- Παρακάτω το πρόσθεσα στη `γραμμή χρόνου` καθώς πρόσθεσα κλιπ ήχου για τα βήματα του Θησεα, για τα χτηπήματα του Θησεα με το σπαθί, και τα χτηπήματα του Μινώταυρου και τέλος κραυγή πόνου όταν πεθαίνει ο Μινώταυρος.
+
+![SFX](https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/845f8f77-6434-4ba6-bf2b-76d077279618)
 
 
 

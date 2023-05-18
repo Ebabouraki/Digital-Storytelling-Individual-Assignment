@@ -305,6 +305,12 @@ https://user-images.githubusercontent.com/100956280/233868378-1fe6efea-564b-4f16
 - Συναρμολόγηση του σετ:
 
 
+-Στη συνεχεια έφτιαξα τα animation των χαρακτήρων μου στο `Timeline`. Βρήκα και κατέβασα έτοιμα animations από το [Mixamo](https://www.mixamo.com/#/). 
+
+Για το Θησέα χρησιμοποίησα τα παρακάτω animations: 
+
+
+
 # Conclusions
 
 

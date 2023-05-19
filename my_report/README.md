@@ -561,6 +561,10 @@ Audio Reverb Filter και Audio Echo Filter:
 - Το τελικό αποτέλεσμα είναι το εξής:
 
 
+
+https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/100956280/9a13976a-ad92-493a-9001-6d5c79f912cd
+
+
 # Conclusions
 
 

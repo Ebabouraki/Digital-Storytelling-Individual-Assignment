@@ -7,10 +7,14 @@
 
 # Introduction
 
-
+Με επιρροή από το Μύθο με το θυσέα και το Μινώταυρο, η ταινία μου θα είναι θα απεικονίζει το παλάτι της Κνωσσού. Ο Θησέας έχει ως στόχο να σκοτώσει το μινώταυρο και θα τον βοηθήσει η Αριάδνη.
 
 # Summary
 
+Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
+#### [1st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
+#### [2st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
+#### [3st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable
 - Πρώτα από όλα έκανα εγκατάσταση του `Unity` την εκδοση 2019.4.0f1 . 

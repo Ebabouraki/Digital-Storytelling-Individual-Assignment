@@ -6,15 +6,9 @@
 ### Digital-Storytelling-Individual-Assignment: https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment
 
 # Introduction
-
-Με επιρροή από το Μύθο με το θυσέα και το Μινώταυρο, η ταινία μου θα είναι θα απεικονίζει το παλάτι της Κνωσσού. Ο Θησέας έχει ως στόχο να σκοτώσει το μινώταυρο και θα τον βοηθήσει η Αριάδνη.
+Στα μάθημα"Ψηφιακές μορφές αφήγησης" θα υλοποιήσω μια ατομική εργασία με τρία παραδοτέα. Μέσω το unity αρχικά θα υλοποίησω κάποια tutorial για να εξασκηθώ και να δημιουργήσω το δικό μου short animation,το οποίο με επιρροή από το Μύθο με το θυσέα και το Μινώταυρο, η ταινία μου θα είναι θα απεικονίζει το παλάτι της Κνωσσού. Ο Θησέας έχει ως στόχο να σκοτώσει το μινώταυρο και θα τον βοηθήσει η Αριάδνη δίνοντας του οδηγίες και το μιτο για να βγει ζωντανός από το λαβύρινθο.
 
 # Summary
-
-Η ατομική εργασία χωρίζεται σε τρία παραδοτέα: 
-#### [1st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#1st-deliverable-1):
-#### [2st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#2nd-deliverable):
-#### [3st Deliverable](https://github.com/dpsd19009/Digital-Storytelling-Individual-Assignment/blob/main/my_report/README.md#3rd-deliverable):
 
 # 1st Deliverable
 - Πρώτα από όλα έκανα εγκατάσταση του `Unity` την εκδοση 2019.4.0f1 . 
@@ -570,6 +564,68 @@ https://github.com/Ebabouraki/Digital-Storytelling-Individual-Assignment/assets/
 
 
 # Conclusions
-
+Έχοντας ολοκληρώσει την εργασία, θεωρώ ότι ήταν μια πάρα πολύ καλή εισαγωγή για εκμάθηση στο Unity και στην ανάπτυξη animation γενικότερα. Σε κάθε παραδοτέο ήταν ιδιαίτερα χρήσιμες οι οδηγίες για το κάθε unit τις οποίες και ακολούθησα
 
 # Sources
+
+
+**1ο παραδοτέο:**
+
+***Unit2***
+
+- https://learn.unity.com/tutorial/working-with-the-terrain-editor#
+- https://www.youtube.com/shorts/rSUWkvhdXDE
+- https://learn.unity.com/tutorial/lesson-2-3-adding-probuilder-shapes-to-the-set?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed723a8edbc2a00202eb57e
+- https://www.youtube.com/watch?v=oRA0RAv0OXc&ab_channel=GabrielWilliams
+- https://learn.unity.com/tutorial/lesson-2-4-creating-and-altering-materials-to-create-a-look?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed723a8edbc2a00202eb57e
+- https://learn.unity.com/tutorial/lesson-2-5-adjusting-the-directional-light?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed723a8edbc2a00202eb57e#5ed2cf59edbc2a033c2d0bfc
+- https://learn.unity.com/tutorial/lesson-4-4-creating-dailies?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f
+
+***Unit3***
+
+- https://connect-prd-cdn.unity.com/20200612/4d373944-9d85-435a-82fb-54db29eb73ce/Unit3_StarterFiles.zip?_ga=2.42213861.1569361259.1592420888-2101839072.1588175812
+- https://learn.unity.com/project/unit-3-environment-modeling-set-dressing-in-unity?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+- https://learn.unity.com/tutorial/lesson-3-4-exploring-emissive-materials?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed981dbedbc2a03f97c0646#5edeaa20edbc2a0021a138c0
+- https://sketchfab.com/search?type=models
+- https://learn.unity.com/tutorial/lesson-4-4-creating-dailies?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f
+
+
+***Unit4***
+- https://sketchfab.com/search?type=models
+- https://learn.unity.com/tutorial/lesson-4-1-creating-a-timeline-and-adding-keyframed-animation-tracks?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed98f9dedbc2a185f0ce686
+- https://learn.unity.com/tutorial/lesson-4-2-configure-generic-rigs-and-add-animation-clips?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed993e7edbc2a039af2b911
+- https://learn.unity.com/tutorial/lesson-4-2-configure-generic-rigs-and-add-animation-clips?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ed9b7cdedbc2a115bab2a9f#5ed993e7edbc2a039af2b911
+
+
+
+
+**2ο παραδοτέο:**
+
+***Unit5***
+- https://learn.unity.com/project/unit-5-create-compelling-shots-using-virtual-cameras?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+
+
+
+***Unit6***
+- https://learn.unity.com/project/unit-6-adding-visual-fidelity-through-lighting?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+
+
+***Unit7***
+- https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2
+- https://assetstore.unity.com/packages/tools/particles-effects/lightning-bolt-effect-for-unity-59471
+- https://learn.unity.com/tutorial/lesson-7-2-working-with-audio?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33
+- https://learn.unity.com/tutorial/lesson-7-3-titles?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33
+
+
+
+**3ο παραδοτέο:**
+
+- https://sketchfab.com/feed
+- https://assetstore.unity.com
+- https://www.mixamo.com/#/
+- https://learn.unity.com/tutorial/lesson-7-1-creating-visual-effects?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33#5ee3de4dedbc2a01f2134ac2
+- https://learn.unity.com/tutorial/lesson-7-3-titles?uv=2019.4&courseId=5ee00851edbc2a0022274f75&projectId=5ee3cd25edbc2a0cafec2d33
+
+
+
+
